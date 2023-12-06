@@ -1,5 +1,5 @@
 # CustomCerbiosSplash
-Utility to replace the 2.3.1 cerbios splash screen with a mesh generated in blender.
+Utility to replace the 2.3.1 cerbios splash screen with a mesh generated in blender. Note that this removes the ability to display the "Safe Mode" text on safe mode boot.
 
 # **Warning** #
 **This program modifies logic flow in the cerbios bios and could result in a broken bios. DO NOT flash any produced bioses to TSOP unless you have a way to recover. I do not guarantee that this even works on anything other than my personal xbox. I highly recommend testing in Xemu if possible. If this bricks your xbox... sucks lol**
