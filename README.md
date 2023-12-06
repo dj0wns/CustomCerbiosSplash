@@ -43,4 +43,23 @@ Take the modified unpacked cerbios and run it through the pack.exe utility found
 Now you can flash the modified cerbios to your Xbox through whatever method you prefer!
 
  
+# Script Arguments #
+```
+usage: modify_cerbios_splash.py [-h] (-b | -m) [-o OUTPUT_TO_BIOS] [-v] [-s MESH_SCALE] [input_file]
+
+Utility for viewing cerbios splash meshes
+
+positional arguments:
+  input_file            An extracted cerbios or waveform obj file
+
+options:
+  -h, --help            show this help message and exit
+  -b, --bios            Input is Cerbios binary
+  -m, --mesh            Input is waveform obj file
+  -o OUTPUT_TO_BIOS, --output-to-bios OUTPUT_TO_BIOS
+                        Output mesh to bios file
+  -v, --visualize       Open a tkinter window to visualize the input mesh
+  -s MESH_SCALE, --mesh-scale MESH_SCALE
+                        Scale factor for mesh, use the visual window to compare against cerbios logo for sizing
+```
 
