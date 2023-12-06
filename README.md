@@ -41,6 +41,7 @@ Take the modified unpacked cerbios and run it through the pack.exe utility found
 
 # Flashing Cerbios #
 Now you can flash the modified cerbios to your Xbox through whatever method you prefer!
+![image](https://github.com/dj0wns/CustomCerbiosSplash/assets/11657504/c616ba54-f1c7-4447-974d-7e8e1f514ae8)
 
  
 # Script Arguments #
